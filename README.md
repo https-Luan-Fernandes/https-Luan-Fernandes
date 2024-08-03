@@ -11,15 +11,31 @@ Hello, I'm [Luan Fernandes](https://www.linkedin.com/in/luan-fernandes-dev), a t
 
 ## Main Technologies
 
-- Programming Languages: Python, JavaScript, Java
-- Frameworks: Node.js
-- Databases: MySQL, PostgreSQL
-- Other Tools: Git, GitHub
+- 💻 Programming Languages: Python, JavaScript, Java
+- 🌐 Front-end: HTML, CSS
+- 🛠️ Frameworks: FastAPI, Flask, Serverless
+- 🖥️ Runtime Environment: Node.js
+- 🛢️ Databases: MySQL, MongoDB
+
+## Additional Skills and Tools
+
+- 🧠 Neural Networks with Python
+- ☁️ AWS Services (EC2, S3, Lambda, etc.)
+- 📓 Google Colab
+- 📚 Jupyter Notebooks
+- 📮 Postman
+- 🐙 Git
+- 🌐 GitHub
+- 🐳 Docker
+- 📦 Package Management:
+  - npm (Node.js)
+  - pip (Python)
+    
 
 ## Contact
 
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/luan-fernandes-dev)
-- Email: httpsluanfernandes@gmail.com
+- 📎 LinkedIn: [Luan Fernandes - LinkedIn Profile](https://www.linkedin.com/in/luan-fernandes-dev)
+- 📧 Email: httpsluanfernandes@gmail.com
 
 ## GitHub Statistics
 
