@@ -20,6 +20,8 @@ I work with a variety of technologies and frameworks. Here are some of the main 
   - [![FastAPI](https://img.shields.io/badge/FastAPI-%234B8BBE.svg?&style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
   - [![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
   - [![Serverless](https://img.shields.io/badge/Serverless-%23000000.svg?&style=flat-square&logo=serverless&logoColor=white)](https://www.serverless.com/)
+  - [![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?&style=flat-square&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
+  - [![Swing](https://img.shields.io/badge/Swing-%23000000.svg?&style=flat-square&logo=java&logoColor=white)](https://docs.oracle.com/javase/tutorial/uiswing/)
 
 - **Runtime Environments**:
    - [![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?&style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
@@ -45,8 +47,10 @@ I work with a variety of technologies and frameworks. Here are some of the main 
   - [![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?&style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
   - [![Docker Hub](https://img.shields.io/badge/Docker_Hub-%232496ED.svg?&style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/)
   - [![Visual Studio Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+  - [![Eclipse](https://img.shields.io/badge/Eclipse-%234BCE5C.svg?&style=flat-square&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
  
 - **Package Management**:
+  - [![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?&style=flat-square&logo=apache-maven&logoColor=white)](https://maven.apache.org/)
   - [![npm](https://img.shields.io/badge/npm-%23CB3837.svg?&style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
   - [![PIP](https://img.shields.io/badge/PIP-%233B82F6.svg?&style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/)
 
