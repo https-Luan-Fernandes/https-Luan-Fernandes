@@ -20,7 +20,7 @@ I'm a **student of Analysis and Systems Development** at the Federal Institute o
 - **Frameworks and Tools**: Jupyter Notebook, TensorFlow, Scikit-learn
 - **Cloud Platforms**: AWS (Certified Cloud Practitioner, various partner certifications)
 - **Soft Skills**: Strong communication and adaptability in a collaborative environment
-- **Certifications**: AWS Cloud Practitioner, EF SET English Certificate (B2 Upper Intermediate), and more.
+- **Certifications**: [AWS Cloud Practitioner](https://www.credly.com/badges/c0cab50e-fa4b-4779-872a-83a8693497e2/linked_in_profile), [EF SET English Certificate (C1 Advanced)](https://cert.efset.org/en/zPAjqS), and more.
 
 ## 📫 Let's Connect!
 - **LinkedIn**: [Luan Fernandes](https://www.linkedin.com/in/luan-fernandes-dev)
